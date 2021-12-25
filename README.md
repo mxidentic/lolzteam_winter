@@ -2,7 +2,7 @@
 <h2>Добавь новогоднего настроения на форум!</h2>
 
 <p>Скрипт добавляет падающий снег, которого некоторым так не хватает.</p>
-<p style='font-size 13px'><a href="https://lolz.guru/letsdie/">IMXI</a></p>
+<p style='font-size 13px'>Автор - <a href="https://lolz.guru/letsdie/">IMXI</a></p>
 
 <h3>Установка<h3>
 
