@@ -10,3 +10,8 @@
   <li>Для установки самого скрипта достаточно перейти по следущей ссылке <a href="https://github.com/mxidentic/lolzteam_winter/raw/main/WinterMode.user.js">https://github.com/mxidentic/lolzteam_winter/raw/main/WinterMode.user.js</a></li>
   <li>Либо скопировать код из файла WinterMode.user.js далее создать новый скрипт в TaperMonkey и вставить код туда</li>
 </ul>  
+  
+<p>Поздравляю всех с наступающим новым годом! Можешь поздравить в ответ - <a href="https://lolz.guru/letsdie/"></a></p>
+  
+<h2>Информация<h2>
+  <p>Скрипт проверялся только на браузере Google Chrome</p>
