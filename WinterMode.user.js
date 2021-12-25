@@ -9,7 +9,6 @@
 // @grant        none
 // ==/UserScript==
 
-window.innerHeight = 3000
 var style = document.querySelector('style')
 
 style.type = "text/css";
@@ -45,5 +44,5 @@ function createSnowflake() {
 
     setTimeout(() => {
         snow_flake.remove();
-    }, 10000)
+    }, 20000)
 }
